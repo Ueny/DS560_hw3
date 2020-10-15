@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Project Summary
 
-You can use the [editor on GitHub](https://github.com/Ueny/DS560_hw3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+MyWonder is a new platform for big data analytics and visualization. At the moment, users usually have to wait for hours to create visualizations from massive files. MyWonder utilizes an approach to distribute the files on the cloud very efficiently. In this way, the visualization process from massive files can be done even under 10 minutes, and users are able to calculate their analytics and summaries from their phones very easily, even before jumping to a meeting.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Identified Wastes
 
-### Markdown
+- **Waiting**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It takes a lot of time for the client to call the CEO for the response. Also, the CEO spends a lot of time waiting for internal transport between departments. The customer support is called, the designer and the developer get contacted, and finally the backend team can make changes. 
 
-```markdown
-Syntax highlighted code block
+- **Over-processing**
 
-# Header 1
-## Header 2
-### Header 3
+The contents updating demand needs to be transported from the CEO to the customer support, then to the designer and the developer, and finally the backend team is able to process the demand. The long transportation line is costly and unnecessary, and the CEO only needs access to someone who can quickly change contents.
 
-- Bulleted
-- List
+- **Skills**
 
-1. Numbered
-2. List
+Each of the team members is required to create a few visualization examples. However, that is unnecessary. Some members may have stronger skills, and there is no need to require each member to create one. This is a waste of skills.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+# Deliverables
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Make terminology understandable
+- Separate the testing and production environment
+- Add a "Note" function
+- Create visualization examples
+- Create a PowerPoint
+- Make a documentation.
 
-### Jekyll Themes
+# Milestone
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ueny/DS560_hw3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Release the demo
 
-### Support or Contact
+# Gantt Diagram
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![image](https://ueny.github.io/DS560_hw3/Gantt%20Chart.png)
