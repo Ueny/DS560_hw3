@@ -4,12 +4,22 @@ MyWonder is a new platform for big data analytics and visualization. At the mome
 
 # Identified Wastes
 
-- Skills: customers and the CEO don’t understand some terminology and contents like “test visualization”.
-- Waiting: It takes a lot of time for the client to call the CEO for the response. The CEO also spends a lot of time constantly calling the customer support, who contacts the designer and the developer, and finally the backend team. 
-- Transport: the contents updating needs to be transported from the CEO to the customer support, then to the designer and the developer, and finally the backend team is able to process the requirement. The long transportation line is costly, and the CEO only needs access to someone who can quickly change contents.
+## - Waiting 
+It takes a lot of time for the client to call the CEO for the response. Also, the CEO spends a lot of time waiting for internal transport between departments. The customer support is called, the designer and the developer get contacted, and finally the backend team can make changes. 
+
+## - Over-processing 
+The contents updating demand needs to be transported from the CEO to the customer support, then to the designer and the developer, and finally the backend team is able to process the demand. The long transportation line is costly and unnecessary, and the CEO only needs access to someone who can quickly change contents.
+
+## - Skills
+Each of the team members is required to create a few visualization examples. However, that is unnecessary. Some members may have stronger skills, and there is no need to require each member to create one. This is a waste of skills.
+
 
 # Deliverables
 
+Make terminology understandable, Separate the testing and production environment, Add a "Note" function, Create visualization examples, Create a PowerPoint, make a documentation.
+
 # Milestone
+
+Release the demo
 
 # Gantt Diagram
