@@ -27,4 +27,4 @@ Release the demo
 
 # Gantt Diagram
 
-![image](https://github.com/Ueny/DS560_hw3/blob/main/Gantt%20Chart.png)
+![image](https://ueny.github.io/DS560_hw3/Gantt%20Chart.png)
