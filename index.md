@@ -5,12 +5,15 @@ MyWonder is a new platform for big data analytics and visualization. At the mome
 # Identified Wastes
 
 - **Waiting**
+
 It takes a lot of time for the client to call the CEO for the response. Also, the CEO spends a lot of time waiting for internal transport between departments. The customer support is called, the designer and the developer get contacted, and finally the backend team can make changes. 
 
 - **Over-processing**
+
 The contents updating demand needs to be transported from the CEO to the customer support, then to the designer and the developer, and finally the backend team is able to process the demand. The long transportation line is costly and unnecessary, and the CEO only needs access to someone who can quickly change contents.
 
 - **Skills**
+
 Each of the team members is required to create a few visualization examples. However, that is unnecessary. Some members may have stronger skills, and there is no need to require each member to create one. This is a waste of skills.
 
 
