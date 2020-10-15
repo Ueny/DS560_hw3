@@ -19,7 +19,12 @@ Each of the team members is required to create a few visualization examples. How
 
 # Deliverables
 
-Make terminology understandable, Separate the testing and production environment, Add a "Note" function, Create visualization examples, Create a PowerPoint, make a documentation.
+- Make terminology understandable
+- Separate the testing and production environment
+- Add a "Note" function
+- Create visualization examples
+- Create a PowerPoint
+- Make a documentation.
 
 # Milestone
 
